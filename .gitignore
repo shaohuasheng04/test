@@ -1,0 +1,14 @@
+.vscode/
+__pycache__/
+dataset/
+
+*.pth
+*.tar
+!FaceBoxes.pth
+
+*.jpg
+!selfie.jpg
+!bts.jpg
+
+test.py
+test_.py
